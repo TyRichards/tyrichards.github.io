@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Ty Richards]]></title>
+  <link href="http://TyRichards.github.io/atom.xml" rel="self"/>
+  <link href="http://TyRichards.github.io/"/>
+  <updated>2014-09-25T15:36:33-05:00</updated>
+  <id>http://TyRichards.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
